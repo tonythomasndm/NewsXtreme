@@ -32,6 +32,18 @@ NewsXtreme is a mobile application that provides users with relevant news based 
 4. **ContentScreen Activity**: Provides detailed views of selected articles.
 5. **DownloadedNews Activity**: Lists downloaded articles for offline reading.
 
+### Splash Screen
+![Splash Screen](NewsXtreme/MC Project Slides/3.png)
+
+### Home Activity
+![Home Activity](NewsXtreme/MC Project Slides/4.png)
+
+### Content Screen
+![Content Screen](NewsXtreme/MC Project Slides/5.png)
+
+### Download Screen
+![Download Screen](NewsXtreme/MC Project Slides/6.png)
+
 ## Dependencies
 - **Jetpack Compose**: For building UI components.
 - **Room Database**: For storing downloaded news articles.
@@ -60,7 +72,9 @@ OR
 - Access downloaded articles in the DownloadScreen activity.
 
 ## Screenshots
-Include screenshots of various activities and screens here.
+![ScreenShots 1](NewsXtreme/MC Project Slides/9.png)
+
+![ScreenShots 2](NewsXtreme/MC Project Slides/10.png)
 
 ## Demo Video
 [Watch the demo video]([https://drive.google.com/link-to-your-demo-video](https://drive.google.com/file/d/1LxiuW56ZxNFntOEsh5gRdMYhTviyHiPK/view?usp=sharing))
@@ -68,6 +82,7 @@ Include screenshots of various activities and screens here.
 ## Authors
 - Arpan Kumar
 - Tony Thomas
+- Daksh Pandey
 
 ## Acknowledgments
 Thank you for reading our presentation. This project was developed as part of the Mobile Computing course. Special thanks to our instructors and peers for their support and feedback.
