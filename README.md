@@ -49,7 +49,8 @@ NewsXtreme is a mobile application that provides users with relevant news based 
 
 OR
 
-
+1. Locate the apk file in the repository in the following path: `app\build\outputs\apk\debug\app-debug.apk"
+2. Install the apk file in your smartphone and run the application
 
 ## Usage
 - Launch the app to see the splash screen.
