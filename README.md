@@ -77,7 +77,7 @@ OR
 ![ScreenShots 2](MC%20Project%20Slides/11.png)
 
 ## Demo Video
-[Watch the demo video]([https://drive.google.com/link-to-your-demo-video](https://drive.google.com/file/d/1LxiuW56ZxNFntOEsh5gRdMYhTviyHiPK/view?usp=sharing))
+[Watch the demo video](https://drive.google.com/file/d/1LxiuW56ZxNFntOEsh5gRdMYhTviyHiPK/view?usp=sharing)
 
 ## Authors
 - Arpan Kumar
