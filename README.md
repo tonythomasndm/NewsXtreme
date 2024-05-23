@@ -72,7 +72,7 @@ OR
 - Access downloaded articles in the DownloadScreen activity.
 
 ## Screenshots
-![ScreenShots 1](NewsXtreme/MC%20Project%20Slides/9.png)
+![ScreenShots 1](MC%20Project%20Slides/9.png)
 
 ![ScreenShots 2](NewsXtreme/MC Project Slides/10.png)
 
