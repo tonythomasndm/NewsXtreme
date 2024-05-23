@@ -33,16 +33,16 @@ NewsXtreme is a mobile application that provides users with relevant news based 
 5. **DownloadedNews Activity**: Lists downloaded articles for offline reading.
 
 ### Splash Screen
-![Splash Screen](NewsXtreme/MC Project Slides/3.png)
+![Splash Screen](MC%20Project%20Slides/3.png)
 
 ### Home Activity
-![Home Activity](NewsXtreme/MC Project Slides/4.png)
+![Home Activity](MC%20Project%20Slides/4.png)
 
 ### Content Screen
-![Content Screen](NewsXtreme/MC Project Slides/5.png)
+![Content Screen](MC%20Project%20Slides/5.png)
 
 ### Download Screen
-![Download Screen](NewsXtreme/MC Project Slides/6.png)
+![Download Screen](MC%20Project%20Slides/6.png)
 
 ## Dependencies
 - **Jetpack Compose**: For building UI components.
@@ -72,9 +72,9 @@ OR
 - Access downloaded articles in the DownloadScreen activity.
 
 ## Screenshots
-![ScreenShots 1](MC%20Project%20Slides/9.png)
+![ScreenShots 1](MC%20Project%20Slides/10.png)
 
-![ScreenShots 2](NewsXtreme/MC Project Slides/10.png)
+![ScreenShots 2](MC%20Project%20Slides/11.png)
 
 ## Demo Video
 [Watch the demo video]([https://drive.google.com/link-to-your-demo-video](https://drive.google.com/file/d/1LxiuW56ZxNFntOEsh5gRdMYhTviyHiPK/view?usp=sharing))
