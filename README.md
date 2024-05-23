@@ -66,7 +66,6 @@ Include screenshots of various activities and screens here.
 
 ## Authors
 - Arpan Kumar
-- Daksh Pandey
 - Tony Thomas
 
 ## Acknowledgments
