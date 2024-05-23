@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_light_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_light_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_news_selected.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/news_selected.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mcproject.app-main-76:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_error__image.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/error__image.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_black.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_black.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_extralight.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_extralight.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_download_selected.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/download_selected.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_medium_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_medium_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_news_unselected.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/news_unselected.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/xml_backup_rules.xml.flat",
+        "source": "com.example.mcproject.app-main-76:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/drawable_download_unselected.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/drawable/download_unselected.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_thin.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_thin.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_semibold_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_semibold_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_extrabold_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_extrabold_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_semibold.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_semibold.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_bold.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_extrabold.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_extrabold.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_medium.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_medium.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_light.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_light.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_black_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_black_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_thin_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_thin_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_extralight_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_extralight_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_bold_italic.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_bold_italic.ttf"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mcproject.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mcproject.app-debug-74:/font_montserrat_regular.ttf.flat",
+        "source": "com.example.mcproject.app-main-76:/font/montserrat_regular.ttf"
+    }
+]

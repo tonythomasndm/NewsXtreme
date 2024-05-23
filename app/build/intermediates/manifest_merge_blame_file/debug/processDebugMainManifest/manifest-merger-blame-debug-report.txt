@@ -1,0 +1,210 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mcproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:8:22-78
+15
+16    <permission
+16-->[androidx.core:core:1.13.1] C:\Users\ttony\.gradle\caches\transforms-4\b134b3d6b11a76386baf25ae82b0dc69\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.mcproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.13.1] C:\Users\ttony\.gradle\caches\transforms-4\b134b3d6b11a76386baf25ae82b0dc69\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.13.1] C:\Users\ttony\.gradle\caches\transforms-4\b134b3d6b11a76386baf25ae82b0dc69\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.mcproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.13.1] C:\Users\ttony\.gradle\caches\transforms-4\b134b3d6b11a76386baf25ae82b0dc69\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.13.1] C:\Users\ttony\.gradle\caches\transforms-4\b134b3d6b11a76386baf25ae82b0dc69\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:10:5-47:19
+23        android:allowBackup="true"
+23-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:11:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.13.1] C:\Users\ttony\.gradle\caches\transforms-4\b134b3d6b11a76386baf25ae82b0dc69\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:12:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:13:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:14:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:15:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:16:9-54
+32        android:supportsRtl="true"
+32-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:17:9-35
+33        android:theme="@style/Theme.MCProject" >
+33-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:18:9-47
+34        <activity
+34-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:20:9-25:20
+35            android:name="com.example.mcproject.MainActivity"
+35-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:21:13-41
+36            android:exported="true"
+36-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:22:13-36
+37            android:theme="@style/Theme.MCProject" >
+37-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:23:13-51
+38        </activity>
+39        <activity
+39-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:26:9-34:20
+40            android:name="com.example.mcproject.SplashActivity"
+40-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:27:13-43
+41            android:exported="true" >
+41-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:28:13-36
+42            <intent-filter>
+42-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:29:13-33:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:30:17-69
+43-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:30:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:32:17-77
+45-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:32:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:35:9-39:20
+49            android:name="com.example.mcproject.HomeActivity"
+49-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:36:13-41
+50            android:exported="true"
+50-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:37:13-36
+51            android:parentActivityName="com.example.mcproject.MainActivity" >
+51-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:38:13-55
+52        </activity>
+53        <activity android:name="com.example.mcproject.ContentScreenActivity" />
+53-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:40:9-59
+53-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:40:19-56
+54        <activity
+54-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:41:9-46:24
+55            android:name="com.example.mcproject.DownloadedNewsActivity"
+55-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:42:13-51
+56            android:launchMode="singleTask"
+56-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:43:13-44
+57            android:parentActivityName="com.example.mcproject.MainActivity" >
+57-->C:\Users\ttony\Downloads\NewsXtreme-main\app\src\main\AndroidManifest.xml:44:13-55
+58        </activity>
+59        <activity
+59-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\f2adc58fa9ff61b2a4dc96cf8c545b25\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+60            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+60-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\f2adc58fa9ff61b2a4dc96cf8c545b25\transformed\play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+61            android:exported="false"
+61-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\f2adc58fa9ff61b2a4dc96cf8c545b25\transformed\play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+62            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+62-->[com.google.android.gms:play-services-base:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\f2adc58fa9ff61b2a4dc96cf8c545b25\transformed\play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+63
+64        <meta-data
+64-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\386823f97353ff032457907443a4e102\transformed\play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+65            android:name="com.google.android.gms.version"
+65-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\386823f97353ff032457907443a4e102\transformed\play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+66            android:value="@integer/google_play_services_version" />
+66-->[com.google.android.gms:play-services-basement:18.3.0] C:\Users\ttony\.gradle\caches\transforms-4\386823f97353ff032457907443a4e102\transformed\play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+67
+68        <activity
+68-->[androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\ttony\.gradle\caches\transforms-4\4c73c413a67e23ebfa91b5071cdc5519\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:23:9-25:39
+69            android:name="androidx.activity.ComponentActivity"
+69-->[androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\ttony\.gradle\caches\transforms-4\4c73c413a67e23ebfa91b5071cdc5519\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:24:13-63
+70            android:exported="true" />
+70-->[androidx.compose.ui:ui-test-manifest:1.6.7] C:\Users\ttony\.gradle\caches\transforms-4\4c73c413a67e23ebfa91b5071cdc5519\transformed\ui-test-manifest-1.6.7\AndroidManifest.xml:25:13-36
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+74            android:authorities="com.example.mcproject.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ttony\.gradle\caches\transforms-4\c09797e26dd5f5aff26a0ca1898d110d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ttony\.gradle\caches\transforms-4\5fc42b4d1d6fb808dcd4578901c01cd6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ttony\.gradle\caches\transforms-4\5fc42b4d1d6fb808dcd4578901c01cd6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\ttony\.gradle\caches\transforms-4\5fc42b4d1d6fb808dcd4578901c01cd6\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+84                android:value="androidx.startup" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+85        </provider>
+86
+87        <activity
+87-->[androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\ttony\.gradle\caches\transforms-4\1a7311ebad567079185839b5affd979e\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+88            android:name="androidx.compose.ui.tooling.PreviewActivity"
+88-->[androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\ttony\.gradle\caches\transforms-4\1a7311ebad567079185839b5affd979e\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+89            android:exported="true" />
+89-->[androidx.compose.ui:ui-tooling-android:1.6.7] C:\Users\ttony\.gradle\caches\transforms-4\1a7311ebad567079185839b5affd979e\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+90
+91        <service
+91-->[androidx.room:room-runtime:2.6.1] C:\Users\ttony\.gradle\caches\transforms-4\84ca7c246ebbb5c83038da8a63e76b52\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+92            android:name="androidx.room.MultiInstanceInvalidationService"
+92-->[androidx.room:room-runtime:2.6.1] C:\Users\ttony\.gradle\caches\transforms-4\84ca7c246ebbb5c83038da8a63e76b52\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+93            android:directBootAware="true"
+93-->[androidx.room:room-runtime:2.6.1] C:\Users\ttony\.gradle\caches\transforms-4\84ca7c246ebbb5c83038da8a63e76b52\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+94            android:exported="false" />
+94-->[androidx.room:room-runtime:2.6.1] C:\Users\ttony\.gradle\caches\transforms-4\84ca7c246ebbb5c83038da8a63e76b52\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+95
+96        <receiver
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+97            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+98            android:directBootAware="false"
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+99            android:enabled="true"
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+100            android:exported="true"
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+101            android:permission="android.permission.DUMP" >
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+103                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+104            </intent-filter>
+105            <intent-filter>
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+106                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+107            </intent-filter>
+108            <intent-filter>
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+109                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+110            </intent-filter>
+111            <intent-filter>
+111-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+112                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+112-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ttony\.gradle\caches\transforms-4\e633b8ade53423d2db1903c12b07ab27\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+113            </intent-filter>
+114        </receiver>
+115    </application>
+116
+117</manifest>
